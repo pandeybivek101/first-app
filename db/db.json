@@ -1,0 +1,32 @@
+{
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "Mc Donald",
+      "address": "Pkr",
+      "Rating": "5",
+      "email": "mc@test.com"
+    },
+    {
+      "name": "food hunt",
+      "address": "btl",
+      "Rating": "4",
+      "email": "fh@test.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "botha",
+      "address": "brt",
+      "Rating": "3.5",
+      "email": "bt@test.com"
+    },
+    {
+      "name": "bajeko sekuwa",
+      "address": "btl",
+      "Rating": "5",
+      "email": "bj@gmail.com",
+      "id": 5
+    }
+  ]
+}
